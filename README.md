@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SineMag
-- 👀 I’m interested in machine learning
+- 👀 I’m interested in anything data related
 - 🌱 I’m currently learning maths, stats and data science 
-- 💞️ I’m looking to collaborate on anything machine learning
+- 💞️ As I write this I'm at novice phase, eager to learn and grow though.
 - 📫 How to reach me ...
 
 <!---
