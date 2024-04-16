@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @SineMag
-- 👀 I’m interested in anything data related
-- 🌱 I’m currently learning maths, stats and data science 
-- 💞️ As I write this I'm at novice phase, eager to learn and grow though.
-- 📫 How to reach me ...
-
-<!---
-SineMag/SineMag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+✨️Passionate data science student with a strong background in applied mathematics and statistics. 
+✨️Experienced in Python for data analysis, with a certificate in data science. 
+✨️Currently working on projects that integrate R, Python, and SQL for comprehensive data analysis and machine learning. 
+✨️Excited to leverage my skills to tackle real-world problems and contribute to innovative solutions in the field of data science and software development. 
