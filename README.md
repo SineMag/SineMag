@@ -1,15 +1,16 @@
 ### Hi 👋, I'm Sinenhlanhla Magubane
 
 #### Aspiring Data Sceintist & Software Developer 
-
-### KNow More about Me:
+_____
+### Know More about Me:
 * Skilled in **Python, R, JavaScript, C++, Machine Learning, & JMP SAS**.
 * Would like to do more research on Data Science & Engineering, and Computer Science Algorythms.
 * Interested in **Data Science, Software Development, Design Technologies**.
 * Looking forward to seeing how human interaction will be like in the coming 10 years, as tech is rapidly advancing.
 
-
+___
 ### 🛠 Tech Stack
+
 💻 Python | C++ | JavaScript | R 
 
 🌐 HTML | CSS | Node.js | Jupyter Noteboks | MathLab | Database Designs
@@ -20,10 +21,11 @@
 
 🖥 UI / UX | Figma 
 
+_____
+### 📚 Technologies I Work With
 
-## 🛠️ Technologies I Work With
 
-### 💻 Programming Languages
+#### 💻 Programming Languages
 [<img src="https://img.icons8.com/color/48/python.png" alt="Python" width="30"/>](https://www.python.org)
 &nbsp;
 [<img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" width="30"/>](https://isocpp.org)
@@ -33,7 +35,7 @@
 [<img src="https://img.icons8.com/external-becris-flat-becris/48/external-r-programming-becris-flat-becris.png" alt="R" width="30"/>](https://www.r-project.org)
 
 
-### 🌐 Web Development & Platforms
+#### 🌐 Web Development & Platforms
 [<img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" width="30"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 &nbsp;
 [<img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="30"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -42,7 +44,7 @@
 &nbsp;
 [<img src="https://img.icons8.com/ios-filled/50/jupyter.png" alt="Jupyter Notebook" width="30"/>](https://jupyter.org)
 
-### 📊 Data Science & Analytics Tools
+#### 📊 Data Science & Analytics Tools
 [<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/octave-icon.png" alt="Octave" width="30"/>](https://www.gnu.org/software/octave/)
 &nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Matlab_Logo.png" alt="MATLAB" width="30"/>](https://www.mathworks.com/products/matlab.html)
@@ -55,7 +57,7 @@
 &nbsp;
 [<img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" width="30"/>](https://pandas.pydata.org)
 
-### 🔧 Tools & IDEs
+#### 🔧 Tools & IDEs
 [<img src="https://img.icons8.com/color/48/git.png" alt="Git" width="30"/>](https://git-scm.com)
 &nbsp;
 [<img src="https://img.icons8.com/fluent/48/visual-studio-code-2019.png" alt="Visual Studio Code" width="30"/>](https://code.visualstudio.com)
