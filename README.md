@@ -1,12 +1,12 @@
-### Hi 👋, I'm Sinenhlanhla Magubane
+### Hello 👋, I'm Sinenhlanhla Magubane
 
 #### Aspiring Data Sceintist & Software Developer 
 _____
-### Know More about Me:
-* Skilled in **Python, R, JavaScript, C++, Machine Learning, & JMP SAS**.
-* Would like to do more research on Data Science & Engineering, and Computer Science Algorythms.
-* Interested in **Data Science, Software Development, Design Technologies**.
-* Looking forward to seeing how human interaction will be like in the coming 10 years, as tech is rapidly advancing.
+### 💡 Know More about Me:
+* 🏆 Skilled in **Python, R, JavaScript, C++, Machine Learning, & JMP SAS**.
+* 📊 Would like to do more research on Data Science & Engineering, and Computer Science Algorythms.
+* 🎨 Interested in **Data Science, Software Development, Design Technologies**.
+* 🤝 Looking forward to seeing how human interaction will be like in the coming 10 years, as tech is rapidly advancing.
 
 ___
 ### 🛠 Tech Stack
