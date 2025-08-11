@@ -13,9 +13,9 @@ _____
 ___
 ### 🛠 Tech Stack
 
-💻 Python | C++ | JavaScript | R 
+💻 Python | C++ | JavaScript | R | LateX
 
-🌐 HTML | CSS | Node.js | Jupyter Noteboks | MathLab | Database Designs
+🌐 HTML | CSS | Node.js | Jupyter Notebooks | MathLab | Database Designs
 
 🛢 JMP SAS | Octave | Scikit-Learn | Pandas
 
@@ -53,6 +53,9 @@ _____
 [<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-Learn" width="30"/>](https://scikit-learn.org)
 &nbsp;
 [<img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" width="30"/>](https://pandas.pydata.org)
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="30"/>](https://www.latex-project.org)
+
 
 
 
