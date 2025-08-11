@@ -17,7 +17,7 @@ ___
 
 🌐 HTML | CSS | Node.js | Jupyter Noteboks | MathLab | Database Designs
 
-🛢 JMP SAS | Octave
+🛢 JMP SAS | Octave | Scikit-Learn | Pandas
 
 🔧 Git | Visual Studio Code
 
@@ -53,6 +53,8 @@ _____
 [<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-Learn" width="30"/>](https://scikit-learn.org)
 &nbsp;
 [<img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" width="30"/>](https://pandas.pydata.org)
+
+
 
 ####  Tools & IDEs
 [<img src="https://img.icons8.com/color/48/git.png" alt="Git" width="30"/>](https://git-scm.com)
