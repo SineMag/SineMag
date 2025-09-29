@@ -15,46 +15,51 @@
 
 ### 🛠 Tech Stack  
 
-💻 **Programming**: Python | C++ | JavaScript | R | LaTeX | TypeScript  
-🌐 **Web**: HTML | CSS | Node.js | React | Jupyter Notebooks | MATLAB | Database Design | Vite  
-🛢 **Data & Analytics**: JMP SAS | Octave | Scikit-Learn | Pandas  
-🔧 **Tools**: Git | Visual Studio Code | Code::Blocks | GitHub  
-🖥 **UI/UX**: Figma | Canva | Adobe XD  
+💻 **Programming**: Python | C++ | JavaScript | R | TypeScript | LaTeX  
+🌐 **Web**: HTML | CSS | Node.js | React | Vite | Jupyter | MATLAB | REST APIs | Express.js  
+🛢 **Data & Analytics**: Pandas | Numpy | Scikit-Learn | JMP SAS | Octave | SQL | API Data Wrangling  
+📊 **Visualization**: Matplotlib | Chart.js | D3.js | W3Schools JS Graphics  
+🔧 **Tools**: Git | GitHub | VS Code | Code::Blocks | Postman | Render | Netlify  
+☁️ **Other**: JSON | Google APIs (Maps, Weather) | OpenWeather API | FreeCodeCamp APIs  
+🖥 **UI/UX**: Figma | Canva | Adobe XD | Responsive Design  
 
 ---
 
 ### 📚 Technologies I Work With  
 
 #### 🔹 Programming Languages  
-[<img src="https://img.icons8.com/color/48/python.png" alt="Python" width="30"/>](https://www.python.org)  
-[<img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" width="30"/>](https://isocpp.org)  
-[<img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="30"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[<img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" width="30"/>](https://www.typescriptlang.org/)  
+[<img src="https://img.icons8.com/color/48/python.png" alt="Python" width="30"/>](https://www.python.org) 
+[<img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" width="30"/>](https://isocpp.org) 
+[<img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="30"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[<img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" width="30"/>](https://www.typescriptlang.org/) 
 [<img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="30"/>](https://www.r-project.org/)  
 
-#### 🔹 Web Development & Platforms  
-[<img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" width="30"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-[<img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="30"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-[<img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" width="30"/>](https://nodejs.org)  
-[<img src="https://img.icons8.com/color/48/react-native.png" alt="React" width="30"/>](https://react.dev/)  
-[<img src="https://img.icons8.com/ios-filled/50/jupyter.png" alt="Jupyter Notebook" width="30"/>](https://jupyter.org)  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="30"/>](https://www.mathworks.com/products/matlab.html)  
-[<img src="https://vitejs.dev/logo.svg" alt="Vite" width="30"/>](https://vitejs.dev/)  
+#### 🔹 Web Development & Frameworks  
+[<img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" width="30"/>](https://developer.mozilla.org/en-US/docs/Web/HTML) 
+[<img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="30"/>](https://developer.mozilla.org/en-US/docs/Web/CSS) 
+[<img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" width="30"/>](https://nodejs.org) 
+[<img src="https://img.icons8.com/color/48/react-native.png" alt="React" width="30"/>](https://react.dev/) 
+[<img src="https://vitejs.dev/logo.svg" alt="Vite" width="30"/>](https://vitejs.dev/) 
+[<img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="Bootstrap" width="30"/>](https://getbootstrap.com/) 
+[<img src="https://img.icons8.com/ios-filled/50/api.png" alt="API" width="30"/>](https://restfulapi.net/)  
 
-#### 🔹 Data Science & Analytics Tools  
-[<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/octave-icon.png" alt="Octave" width="30"/>](https://www.gnu.org/software/octave/)  
-[<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-Learn" width="30"/>](https://scikit-learn.org)  
-[<img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" width="30"/>](https://pandas.pydata.org)  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="30"/>](https://www.latex-project.org)  
-[<img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sas-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="SAS" width="30"/>](https://www.sas.com/)  
+#### 🔹 Data Science & Analytics  
+[<img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" width="30"/>](https://pandas.pydata.org) 
+[<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-Learn" width="30"/>](https://scikit-learn.org) 
+[<img src="https://numpy.org/images/logo.svg" alt="NumPy" width="30"/>](https://numpy.org) 
+[<img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="30"/>](https://matplotlib.org) 
+[<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/octave-icon.png" alt="Octave" width="30"/>](https://www.gnu.org/software/octave/) 
+[<img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="SQLite" width="40"/>](https://www.sqlite.org/)  
 
 #### 🔹 Tools & IDEs  
-[<img src="https://img.icons8.com/color/48/git.png" alt="Git" width="30"/>](https://git-scm.com)  
-[<img src="https://img.icons8.com/fluent/48/visual-studio-code-2019.png" alt="Visual Studio Code" width="30"/>](https://code.visualstudio.com)  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Codeblocks_logo.png" alt="Code::Blocks" width="30"/>](http://www.codeblocks.org/)  
-[<img src="https://img.icons8.com/ios-glyphs/60/github.png" alt="GitHub" width="30"/>](https://github.com/)  
+[<img src="https://img.icons8.com/color/48/git.png" alt="Git" width="30"/>](https://git-scm.com) 
+[<img src="https://img.icons8.com/ios-glyphs/60/github.png" alt="GitHub" width="30"/>](https://github.com/) 
+[<img src="https://img.icons8.com/fluent/48/visual-studio-code-2019.png" alt="VS Code" width="30"/>](https://code.visualstudio.com) 
+[<img src="https://raw.githubusercontent.com/rangav/thunder-client-support/master/images/thunder-icon.png" alt="Thunder Client" width="30"/>](https://www.thunderclient.com/) 
+[<img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" width="30"/>](https://firebase.google.com/) 
+
 
 #### 🔹 UI/UX & Design  
-[<img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" width="30"/>](https://www.figma.com/)  
-[<img src="https://img.icons8.com/color/48/canva.png" alt="Canva" width="30"/>](https://www.canva.com/)  
+[<img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" width="30"/>](https://www.figma.com/) 
+[<img src="https://img.icons8.com/color/48/canva.png" alt="Canva" width="30"/>](https://www.canva.com/) 
 [<img src="https://img.icons8.com/color/48/adobe-xd.png" alt="Adobe XD" width="30"/>](https://adobexdplatform.com/)  
