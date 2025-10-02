@@ -7,7 +7,7 @@
 - 📬 Reach me at: **snenhlanhlamagubane99@gmail.com**  
 - 🚧 [View my current projects](https://portfolio-ft6h.onrender.com/)  
 - 🏆 Skilled in **Python, R, JavaScript, C++, Machine Learning, & JMP SAS**  
-- 📊 Passionate about **Data Science, Engineering Algorithms, and Software Development**  
+- 📊 Passionate about **Data Science & Engineering Algorithms, Software Development, Cognitive Growth (in the presence of AI)**  
 - 🎨 Interested in **Data Science, Software Development, and Design Technologies**  
 - 🤝 Curious about how **human interaction will evolve in the next 10 years** as technology advances  
 
